@@ -1,0 +1,4 @@
+interface:
+  display_name: "PIN 头影测量分析"
+  short_description: "复用和维护 PIN 的本地头影测量工作区与研究标点"
+  default_prompt: "使用 $pin-cephalometric-analysis 帮我维护或优化 PIN 头影测量分析模块。"
